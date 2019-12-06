@@ -1,7 +1,0 @@
-queue:
-- name: default
-  rate: 5/s
-- name: queue-1
-  rate: 5/s
-- name: queue-2
-  rate: 5/s
