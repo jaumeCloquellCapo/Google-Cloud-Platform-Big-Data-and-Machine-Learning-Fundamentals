@@ -236,6 +236,9 @@ Google Cloud Platform applications:
 3. __App Engine__: Platform as a service (PaaS). Run code in the cloud without worrying about infrastructure.
 4. __Cloud Functions__: Serverless environment. Functions as a service (FaaS). Executes code in response to events.
 
+
+![Image of Yaktocat](https://img.alicdn.com/tfs/TB1WyglO7voK1RjSZFwXXciCFXa-2305-1450.png)
+
 App Engine: long-lived web applications that auto-scale to billions of users.
 
 Cloud functions: Code triggered by event, such as new file uploaded.
